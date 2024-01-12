@@ -1,0 +1,50 @@
+Time	100ces	2021	2022	2023	2024	2025	2026	2027	2028	2029	2030	2031	2032	2033	2034	2035	2036	2037	2038	2039	2040	2041	2042	2043	2044	2045	2046	2047	2048	2049	2050
+Output Electricity Generation by Type[hard coal es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[natural gas steam turbine es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[natural gas combined cycle es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[nuclear es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[hydro es]	100ces	2.43463	2.48714	1.14385	1.17746	1.21398	1.25485	1.29763	1.34004	1.39764	1.46006	1.52843	1.60249	1.67171	1.74388	1.88243	1.97386	2.13884	2.29141	2.41782	2.52522	2.58128	2.64088	2.71064	2.62908	2.7212	2.7678	2.80972	2.84677	2.87258	2.92678
+Output Electricity Generation by Type[onshore wind es]	100ces	1.05755	1.15751	0.105653	0.102376	0.0973744	0.0960697	0.0948567	0.099816	0.102845	0.108301	0.120038	0.140466	0.161253	0.192289	0.262777	0.378366	0.652432	0.923701	1.16339	1.37907	1.61121	1.83465	2.01081	1.74345	1.99655	2.13194	2.26978	2.37908	2.46813	2.64208
+Output Electricity Generation by Type[solar PV es]	100ces	0.0871647	0.118277	0.0199731	0.02376	0.0301882	0.0301894	0.0299657	0.0325368	0.0342549	0.036691	0.0392061	0.0418216	0.0442703	0.048393	0.0227323	0.053332	0.124135	0.206688	0.291382	0.380765	0.448561	0.511209	0.582763	0.535424	0.596904	0.650396	0.707455	0.744168	0.779019	0.833589
+Output Electricity Generation by Type[solar thermal es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[biomass es]	100ces	3.69908	3.66687	1.94099	1.92924	1.92795	1.92751	1.93285	1.8198	1.87782	1.96386	2.05362	2.14473	2.22893	2.31096	2.44154	2.49416	2.56303	2.61472	2.65275	2.68217	2.70345	2.72045	2.7352	2.7465	2.75398	2.71878	2.68122	2.64113	2.64113	2.64113
+Output Electricity Generation by Type[geothermal es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[petroleum es]	100ces	0.377557	0.374654	0.1971	0.193941	0.190452	0.187131	0.183648	0.189518	0.194211	0.203109	0.212393	0.221816	0.230525	0.239008	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[natural gas peaker es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[lignite es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[offshore wind es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.704856	0.808169	0.864168	0.921239	0.964704	1.00098	1.07302
+Output Electricity Generation by Type[crude oil es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[heavy or residual fuel oil es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[municipal solid waste es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[hard coal w CCS es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[natural gas combined cycle w CCS es]	100ces	0	0	4.37141	4.5234	4.69231	4.86713	5.04985	5.4149	5.65826	5.91749	6.18797	6.46252	6.71623	6.9634	7.35687	7.51541	7.72294	7.87869	7.99327	8.08193	8.14606	8.19727	8.2417	8.27575	8.2983	8.31335	8.32152	8.322	8.322	8.322
+Output Electricity Generation by Type[biomass w CCS es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[lignite w CCS es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation by Type[small modular reactor es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0968941	0.274597
+Output Electricity Generation by Type[hydrogen combustion turbine es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5.64516E-18	0	0.00328607	0.0154865	0.0263516	0.0308587	0.0363627	0.0448982	0.0616228	0.0592164	0.043239	0.0508657	0.265796	0.0840325	0.0511392
+Output Electricity Generation by Type[hydrogen combined cycle es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.000797733	0.000879354	0.000978791	0.00114518	0.00371467	0.00365779	0.00104748	0.00117377	0.0229234	0.00850406	0.0143972
+Output Electricity Generation Capacity[hard coal es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[natural gas steam turbine es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[natural gas combined cycle es]	100ces	1.2828	1.2196	0.070354	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[nuclear es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[hydro es]	100ces	0.7009	0.7009	0.7009	0.7009	0.7009	0.7009	0.7009	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769	0.6769
+Output Electricity Generation Capacity[onshore wind es]	100ces	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0092	1.0842	1.1342	1.1342	1.1342	1.1342	1.1342	1.1342	1.1342	1.1342	1.1342
+Output Electricity Generation Capacity[solar PV es]	100ces	0.2469	0.3009	0.3689	0.4729	0.6829	0.6829	0.6829	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929	0.6929
+Output Electricity Generation Capacity[solar thermal es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[biomass es]	100ces	0.535	0.527215	0.513631	0.493366	0.475288	0.458112	0.442759	0.388759	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.383901	0.378308	0.372715	0.367122	0.367122	0.367122
+Output Electricity Generation Capacity[geothermal es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[petroleum es]	100ces	0.8429	0.831485	0.805092	0.765573	0.724735	0.68652	0.649365	0.624943	0.612876	0.612876	0.612876	0.612876	0.612876	0.612876	0.612876	0.60014	0.574697	0.536494	0.498215	0.459771	0.421141	0.382291	0.343246	0.304001	0.264621	0.225071	0.185311	0.145311	0.105089	0.0646828
+Output Electricity Generation Capacity[natural gas peaker es]	100ces	0.178	0.177572	0.176492	0.175085	0.173688	0.172464	0.171078	0.169654	0.168288	0.167027	0.16587	0.164772	0.163687	0.162564	0.161399	0.160191	0.158946	0.157669	0.156359	0.155021	0.153648	0.152244	0.15081	0.14936	0.147905	0.146446	0.144979	0.143502	0.142015	0.140521
+Output Electricity Generation Capacity[lignite es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[offshore wind es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.25	0.25	0.25	0.25	0.25	0.25	0.25
+Output Electricity Generation Capacity[crude oil es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[heavy or residual fuel oil es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[municipal solid waste es]	100ces	0.0115	0.0112158	0.0106131	0.00982197	0.0090991	0.00845934	0.00775305	0.00723269	0.00689227	0.00671595	0.00645396	0.00610643	0.00568922	0.00520786	0.00466691	0.0038566	0.00277693	0.00142917	2.31063E-05	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[hard coal w CCS es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[natural gas combined cycle w CCS es]	100ces	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Output Electricity Generation Capacity[biomass w CCS es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[lignite w CCS es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Output Electricity Generation Capacity[small modular reactor es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.34	0.34
+Output Electricity Generation Capacity[hydrogen combustion turbine es]	100ces	0	0	0	0	0	0	0	0.1	0.1	0.25	0.3	0.35	0.45	0.55	0.85	1	1.2	1.4	1.55	1.6	1.7	1.8	1.9	1.9	1.9	2	2.1	2.2	2.2	2.2
+Output Electricity Generation Capacity[hydrogen combined cycle es]	100ces	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.15	0.15	0.15	0.15	0.15	0.15	0.15	0.15	0.15	0.15	0.15
+Total Electricity Demand	100ces	1.15671E+07	1.17295E+07	1.18929E+07	1.20726E+07	1.22754E+07	1.24878E+07	1.27123E+07	1.29903E+07	1.33298E+07	1.37136E+07	1.41277E+07	1.4557E+07	1.49601E+07	1.5365E+07	1.57647E+07	1.61656E+07	1.68867E+07	1.75453E+07	1.81252E+07	1.86578E+07	1.9098E+07	1.9502E+07	1.98969E+07	2.02765E+07	2.06604E+07	2.099E+07	2.12978E+07	2.15566E+07	2.18192E+07	2.21134E+07
